@@ -1,5 +1,5 @@
 ---
-title: "Edgar Anderson's Iris Data"
+title: "Edgar Anderson's Rose Data"
 output:
     pdf_document:
         toc: yes
